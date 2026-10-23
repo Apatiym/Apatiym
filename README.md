@@ -1,7 +1,7 @@
 <h1 align="center">🐉 Apatiym / developer</h1>
 
 <p align="center">
-  <samp>Пишу код, собираю штуки, ломаю границы · I write code, build things, break boundaries</samp>
+  <samp>Пишу код, собираю штуки, ломаю границы<br/>I write code, build things, break boundaries</samp>
 </p>
 
 ###
@@ -12,6 +12,8 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
 </div>
@@ -26,13 +28,13 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" />
@@ -63,10 +65,10 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/apatyym">
-    <img src="https://img.shields.io/badge/Telegram-@apatyym-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/apatiym">
+    <img src="https://img.shields.io/badge/Telegram-@apatiym-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://apatyym.xyz">
-    <img src="https://img.shields.io/badge/Website-apatyym.xyz-6D5AE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  <a href="https://apatiym.xyz">
+    <img src="https://img.shields.io/badge/Website-apatiym.xyz-6D5AE6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </div>
