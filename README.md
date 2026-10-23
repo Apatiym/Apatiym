@@ -1,9 +1,5 @@
 <h1 align="center">🐉 Apatiym / developer</h1>
 
-<p align="center">
-  <samp>Пишу код, собираю штуки, ломаю границы<br/>I write code, build things, break boundaries</samp>
-</p>
-
 ###
 
 <div align="center">
