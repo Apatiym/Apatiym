@@ -1,4 +1,4 @@
-<h1 align="center">🐉 Apatiym / developer</h1>
+<h1 align="center">🥐 / 14-year developer</h1>
 
 ###
 
@@ -39,7 +39,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Apatiym&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Apatiym&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en" alt="GitHub stats" />
 </p>
 
 ###
