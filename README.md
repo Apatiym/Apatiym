@@ -1,4 +1,4 @@
-<h1 align="center">🥐 / 14-year developer</h1>
+<h1 align="center">🥐 / 14-yo developer</h1>
 
 ###
 
